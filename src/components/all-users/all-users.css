@@ -1,0 +1,19 @@
+.all-users{
+    margin-top: 50px;
+}
+.all-users h1{
+        text-align: center;
+}
+.userlist {
+    padding: 20px;
+}
+
+.userlist p{
+    text-align: center;
+    color: crimson;
+    font-weight: bolder;
+}
+.userlist span{
+    color: red;
+    font-weight: bolder;
+}

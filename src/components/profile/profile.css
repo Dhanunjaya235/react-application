@@ -1,0 +1,14 @@
+.profile{
+   text-align: center;
+}
+
+.profile h1{
+    margin-top: 100px;
+    color: crimson;
+}
+
+.profile p{
+    padding: 20px;
+    font-weight: bolder;
+    text-align: center;
+}
